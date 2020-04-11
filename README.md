@@ -3,9 +3,9 @@
 
 ## Requirements
 
-MySQL
-ES Extended (ESX) by @GiZz: [https://github.com/ESX-Org/es_extended](https://github.com/ESX-Org/es_extended)
-esx_policejob: [https://github.com/ESX-Org/esx_policejob](https://github.com/ESX-Org/esx_policejob)
+- MySQL
+- ES Extended (ESX) by @GiZz: [https://github.com/ESX-Org/es_extended](https://github.com/ESX-Org/es_extended)
+- esx_policejob: [https://github.com/ESX-Org/esx_policejob](https://github.com/ESX-Org/esx_policejob)
 
 ## Features
 
